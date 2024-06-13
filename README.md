@@ -3,6 +3,12 @@
 Este es un proyecto que hice basado una UI sacada de dribble.com, con tematica de una app de cafés.
 
 
+
+
+https://github.com/KarinaMastbaum/KM-coffee/assets/57202657/d764492b-ff01-426d-a982-0c452d25c84d
+
+
+
 ## Pruebas ⚙️
 
 _Las pruebas fueron realizadas utilizando un dispositivo fisico (Samsung Galaxy S10) y un AVD emulando un Pixel 3XL_
