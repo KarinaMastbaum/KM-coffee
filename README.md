@@ -4,8 +4,8 @@ Este es un proyecto que hice basado una UI sacada de dribble.com, con tematica d
 
 
 
+https://github.com/KarinaMastbaum/KM-coffee/assets/57202657/e62ccc17-0ce4-4916-9bb1-79b6ebbb5ff4
 
-https://github.com/KarinaMastbaum/KM-coffee/assets/57202657/d764492b-ff01-426d-a982-0c452d25c84d
 
 
 
